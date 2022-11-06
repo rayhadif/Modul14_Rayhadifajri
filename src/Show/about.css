@@ -1,0 +1,22 @@
+img {
+    width: 35%;
+    height: auto;
+    margin-right: 15px;
+}
+
+.containers {
+    max-width: 600px;
+    min-height: 500px;
+    margin: 0 auto;
+}
+
+.boxes {
+    display: flex;
+    align-items: center;
+    margin-top: 200px;
+}
+
+.box {
+    text-align: justify;
+    margin-left: 15px;
+}

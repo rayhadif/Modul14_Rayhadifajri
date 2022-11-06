@@ -1,0 +1,9 @@
+.Title {
+    background-color: rgb(44,48,52);
+    box-shadow: 5px 5px rgba(44,48,52,0.8);
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: rgb(151,154,149);
+}
